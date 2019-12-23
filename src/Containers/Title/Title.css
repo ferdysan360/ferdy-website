@@ -24,17 +24,17 @@
     display: inline;
 }
 
-a:link {
+.title a:link {
     color: #ffffff;
     text-decoration: none;
 }
 
-a:visited {
+.title a:visited {
     color: #ffffff;
     text-decoration: none;
 }
 
-a:hover {
+.title a:hover {
     color: dodgerblue;
     text-decoration: none;
     transition: 0.1s;
