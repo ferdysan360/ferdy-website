@@ -6,5 +6,36 @@
 }
 
 .particles {
-    z-index: -1;
+    height: 100%;
+    width: 100%;
+    position: absolute !important;
+    pointer-events: none;
+}
+
+.title {
+    padding: 30vh 0;
+}
+
+.title-header {
+    font-size: 56pt;
+}
+
+.scroll-down {
+    display: inline;
+}
+
+a:link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: dodgerblue;
+    text-decoration: none;
+    transition: 0.1s;
 }

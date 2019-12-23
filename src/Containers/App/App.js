@@ -1,31 +1,39 @@
 import React from 'react';
 import './App.css';
+// import NavigationBar from '../NavigationBar/NavigationBar'
 import Title from '../Title/Title'
 import Experience from '../Experience/Experience'
 import Projects from '../Projects/Projects'
 import About from '../About/About'
+import Navbar from 'react-bootstrap/Navbar'
+import Nav from 'react-bootstrap/Nav'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div id="Title">
-          <Title/>
-        </div>
-        <a href="#Title">Title</a>
-        <a href="#Experience">Experience</a>
-        <a href="#Projects">Projects</a>
-        <a href="#About">About</a>
-        <div id="Experience">
-          <Experience/>
-        </div>
-        <div id="Projects">
-          <Projects/>
-        </div>
-        <div id="About">
-          <About/>
-        </div>
+        <Title/>
       </header>
+      <Navbar variant="dark" expand="md" sticky="top" className="navbar-container">
+        <Navbar.Brand href="#">Ferdysan</Navbar.Brand>
+        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        <Navbar.Collapse id="basic-navbar-nav">
+          <Nav className="mr-auto">
+            <Nav.Link href="#Experience">Experience</Nav.Link>
+            <Nav.Link href="#Projects">Projects</Nav.Link>
+            <Nav.Link href="#About">About</Nav.Link>
+          </Nav>
+        </Navbar.Collapse>
+      </Navbar>
+      <div id="Experience">
+        <Experience/>
+      </div>
+      <div id="Projects">
+        <Projects/>
+      </div>
+      <div id="About">
+        <About/>
+      </div>
     </div>
   );
 }
