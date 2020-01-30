@@ -6,6 +6,7 @@ class Experience extends Component {
         return (
             <div className="experience-container">
                 <h1 className="experience-title">Experience</h1>
+                <p className="under-construction">This portion of the page is under construction.</p>
             </div>
         )
     }
