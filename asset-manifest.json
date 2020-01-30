@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ferdy-website/static/css/main.b97d446d.chunk.css",
-    "main.js": "/ferdy-website/static/js/main.1bcf5f51.chunk.js",
-    "main.js.map": "/ferdy-website/static/js/main.1bcf5f51.chunk.js.map",
-    "runtime-main.js": "/ferdy-website/static/js/runtime-main.f89758ad.js",
-    "runtime-main.js.map": "/ferdy-website/static/js/runtime-main.f89758ad.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/ferdy-website/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.15aa283a.chunk.js": "/ferdy-website/static/js/2.15aa283a.chunk.js",
-    "static/js/2.15aa283a.chunk.js.map": "/ferdy-website/static/js/2.15aa283a.chunk.js.map",
-    "index.html": "/ferdy-website/index.html",
-    "precache-manifest.8432eba03e64ee58754e35cf290883d8.js": "/ferdy-website/precache-manifest.8432eba03e64ee58754e35cf290883d8.js",
-    "service-worker.js": "/ferdy-website/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/ferdy-website/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.b97d446d.chunk.css.map": "/ferdy-website/static/css/main.b97d446d.chunk.css.map",
-    "static/js/2.15aa283a.chunk.js.LICENSE": "/ferdy-website/static/js/2.15aa283a.chunk.js.LICENSE"
+    "main.css": "/static/css/main.b97d446d.chunk.css",
+    "main.js": "/static/js/main.8939c0ce.chunk.js",
+    "main.js.map": "/static/js/main.8939c0ce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f93b8ee2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f93b8ee2.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.15aa283a.chunk.js": "/static/js/2.15aa283a.chunk.js",
+    "static/js/2.15aa283a.chunk.js.map": "/static/js/2.15aa283a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.05b84abc5a8229d1ee900d5aff840083.js": "/precache-manifest.05b84abc5a8229d1ee900d5aff840083.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.b97d446d.chunk.css.map": "/static/css/main.b97d446d.chunk.css.map",
+    "static/js/2.15aa283a.chunk.js.LICENSE": "/static/js/2.15aa283a.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.f89758ad.js",
+    "static/js/runtime-main.f93b8ee2.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.15aa283a.chunk.js",
     "static/css/main.b97d446d.chunk.css",
-    "static/js/main.1bcf5f51.chunk.js"
+    "static/js/main.8939c0ce.chunk.js"
   ]
 }
