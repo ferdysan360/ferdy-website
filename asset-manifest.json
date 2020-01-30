@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "ferdysan360.github.io/ferdy-website/static/css/main.b97d446d.chunk.css",
-    "main.js": "ferdysan360.github.io/ferdy-website/static/js/main.58175593.chunk.js",
-    "main.js.map": "ferdysan360.github.io/ferdy-website/static/js/main.58175593.chunk.js.map",
-    "runtime-main.js": "ferdysan360.github.io/ferdy-website/static/js/runtime-main.d815f099.js",
-    "runtime-main.js.map": "ferdysan360.github.io/ferdy-website/static/js/runtime-main.d815f099.js.map",
-    "static/css/2.17e5ed98.chunk.css": "ferdysan360.github.io/ferdy-website/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.15aa283a.chunk.js": "ferdysan360.github.io/ferdy-website/static/js/2.15aa283a.chunk.js",
-    "static/js/2.15aa283a.chunk.js.map": "ferdysan360.github.io/ferdy-website/static/js/2.15aa283a.chunk.js.map",
-    "index.html": "ferdysan360.github.io/ferdy-website/index.html",
-    "precache-manifest.4c9fdf3dc0a71447ce9096bee2ab27ba.js": "ferdysan360.github.io/ferdy-website/precache-manifest.4c9fdf3dc0a71447ce9096bee2ab27ba.js",
-    "service-worker.js": "ferdysan360.github.io/ferdy-website/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "ferdysan360.github.io/ferdy-website/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.b97d446d.chunk.css.map": "ferdysan360.github.io/ferdy-website/static/css/main.b97d446d.chunk.css.map",
-    "static/js/2.15aa283a.chunk.js.LICENSE": "ferdysan360.github.io/ferdy-website/static/js/2.15aa283a.chunk.js.LICENSE"
+    "main.css": "/static/css/main.b97d446d.chunk.css",
+    "main.js": "/static/js/main.8939c0ce.chunk.js",
+    "main.js.map": "/static/js/main.8939c0ce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f93b8ee2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f93b8ee2.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.15aa283a.chunk.js": "/static/js/2.15aa283a.chunk.js",
+    "static/js/2.15aa283a.chunk.js.map": "/static/js/2.15aa283a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.05b84abc5a8229d1ee900d5aff840083.js": "/precache-manifest.05b84abc5a8229d1ee900d5aff840083.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.b97d446d.chunk.css.map": "/static/css/main.b97d446d.chunk.css.map",
+    "static/js/2.15aa283a.chunk.js.LICENSE": "/static/js/2.15aa283a.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.d815f099.js",
+    "static/js/runtime-main.f93b8ee2.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.15aa283a.chunk.js",
     "static/css/main.b97d446d.chunk.css",
-    "static/js/main.58175593.chunk.js"
+    "static/js/main.8939c0ce.chunk.js"
   ]
 }
