@@ -7,47 +7,39 @@ class Experience extends Component {
         return (
             <div className="experience-container">
                 <h1 className="experience-title">Experience</h1>
-                {/*
-                <h2>Work</h2>
+                {/* <h2>Work</h2>
                 <div className="experience-flex">
                     <Card style={{ width: '18rem' }} bg="light" border="secondary" className="experience-card">
                         <Card.Body>
-                            <Card.Title>ITB NIM Finder</Card.Title>
-                            <Card.Subtitle className="mb-2 text-muted">HTML | CSS | JS | REACT</Card.Subtitle>
+                            <Card.Title></Card.Title>
+                            <Card.Subtitle className="mb-2 text-muted"></Card.Subtitle>
                             <Card.Text>
-                                A NIM Finder project for ITB. Made for
-                                Programming Laboratory selection
-                                assignment.
+                                
                             </Card.Text>
                         </Card.Body>
                     </Card>
-                </div>
+                </div> */}
                 <h2>Organization</h2>
                 <div className="experience-flex">
                     <Card style={{ width: '18rem' }} bg="light" border="secondary" className="experience-card">
                         <Card.Body>
-                            <Card.Title>ITB NIM Finder</Card.Title>
-                            <Card.Subtitle className="mb-2 text-muted">HTML | CSS | JS | REACT</Card.Subtitle>
+                            <Card.Title>Himpunan Mahasiswa Informatika (HMIF) ITB</Card.Title>
+                            <Card.Subtitle className="mb-2 text-muted">Academic and Welfare</Card.Subtitle>
                             <Card.Text>
-                                A NIM Finder project for ITB. Made for
-                                Programming Laboratory selection
-                                assignment.
+                                
                             </Card.Text>
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '18rem' }} bg="light" border="secondary" className="experience-card">
                         <Card.Body>
-                            <Card.Title>ITB NIM Finder</Card.Title>
-                            <Card.Subtitle className="mb-2 text-muted">HTML | CSS | JS | REACT</Card.Subtitle>
+                            <Card.Title>Unit Kebudayaan Jepang (UKJ) ITB</Card.Title>
+                            <Card.Subtitle className="mb-2 text-muted">Music Division</Card.Subtitle>
                             <Card.Text>
-                                A NIM Finder project for ITB. Made for
-                                Programming Laboratory selection
-                                assignment.
+                                
                             </Card.Text>
                         </Card.Body>
                     </Card>
                 </div>
-                */}
             </div>
         )
     }
