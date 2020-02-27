@@ -17,6 +17,12 @@ class Projects extends Component {
                                 Programming Laboratory selection
                                 assignment.
                             </Card.Text>
+                            <Card.Link
+                                href="https://github.com/ferdysan360/Simple-NIM-Finder-Project"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                >Git ->
+                            </Card.Link>
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '18rem' }} bg="dark" border="secondary" className="projects-card">
@@ -28,7 +34,7 @@ class Projects extends Component {
                                 Artificial Intelligence : Minimax
                                 Algorithm and Alpha-Beta Pruning.
                             </Card.Text>
-                        </Card.Body>
+                            </Card.Body>
                     </Card>
                     <Card style={{ width: '18rem' }} bg="dark" border="secondary" className="projects-card">
                         <Card.Body>
@@ -48,6 +54,12 @@ class Projects extends Component {
                                 A UDP Connection simulating a TCP
                                 connection, used for transferring files.
                             </Card.Text>
+                            <Card.Link
+                                href="https://github.com/ferdysan360/TCP-UDP-Socket-Connection"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >Git ->
+                            </Card.Link>
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '18rem' }} bg="dark" border="secondary" className="projects-card">
@@ -58,6 +70,12 @@ class Projects extends Component {
                                 A Maze Solver program using BFS and
                                 A* Algorithm.
                             </Card.Text>
+                            <Card.Link
+                                href="https://github.com/yoelsusanto/BFS-AStar-MazeExplorer"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >Git ->
+                            </Card.Link>
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '18rem' }} bg="dark" border="secondary" className="projects-card">
@@ -69,6 +87,12 @@ class Projects extends Component {
                                 using object oriented programming
                                 paradigm.
                             </Card.Text>
+                            <Card.Link
+                                href="https://github.com/ferdysan360/ObjectOriented-Engis-Farm"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >Git ->
+                            </Card.Link>
                         </Card.Body>
                     </Card>
                 </div>
