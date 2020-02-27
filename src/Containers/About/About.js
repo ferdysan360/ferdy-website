@@ -27,6 +27,14 @@ class About extends Component {
                         </div>
                         <br/>
                         <div className="contacts-item">
+                            <a href="https://www.linkedin.com/in/ferdy-santoso-063a73149/" target="_blank" rel="noopener noreferrer">
+                                <img src={require("../../Assets/linkedin.png")} alt="linkedin" />
+                                <h5>Ferdy Santoso</h5>
+
+                            </a>
+                        </div>
+                        <br />
+                        <div className="contacts-item">
                             <a href="https://github.com/ferdysan360" target="_blank" rel="noopener noreferrer">
                                 <img src={require("../../Assets/github.png")} alt="github"/>
                                 <h5>ferdysan360</h5>
