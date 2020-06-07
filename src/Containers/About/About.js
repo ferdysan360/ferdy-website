@@ -10,14 +10,14 @@ class About extends Component {
                 <div className="about-flex">
                     <div className="about-item-me">
                         <p className="me-paragraph">
-                            Hi! My name is Ferdy Santoso and I am a third year Informatics Student at Institut Teknologi Bandung,
+                            Hi! My name is Ferdy Santoso and I am an Informatics Student at Institut Teknologi Bandung,
                             Indonesia. I am currently living in Bandung but I am originally from Semarang. I am passionate in
                             the field of Computer Science and Software Engineering. I like programming and developing
                             software.
                         </p>
                     </div>
                     <div className="about-item-contacts">
-                        <h4 className="contacts-header">Find me on...</h4>
+                        {/* <h4 className="contacts-header">Find me on...</h4>
                         <div className="contacts-item">
                             <a href="https://www.facebook.com/ferdy.santoso.520" target="_blank" rel="noopener noreferrer">
                                 <img src={require("../../Assets/facebook.png")} alt="facebook"/>
@@ -25,7 +25,7 @@ class About extends Component {
 
                             </a>
                         </div>
-                        <br/>
+                        <br/> */}
                         <div className="contacts-item">
                             <a href="https://www.linkedin.com/in/ferdy-santoso-063a73149/" target="_blank" rel="noopener noreferrer">
                                 <img src={require("../../Assets/linkedin.png")} alt="linkedin" />

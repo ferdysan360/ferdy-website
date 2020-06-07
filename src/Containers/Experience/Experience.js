@@ -7,18 +7,19 @@ class Experience extends Component {
         return (
             <div className="experience-container">
                 <h1 className="experience-title">Experience</h1>
-                {/* <h2>Work</h2>
+                <h2>Work</h2>
                 <div className="experience-flex">
                     <Card style={{ width: '18rem' }} bg="light" border="secondary" className="experience-card">
                         <Card.Body>
-                            <Card.Title></Card.Title>
-                            <Card.Subtitle className="mb-2 text-muted"></Card.Subtitle>
+                            <Card.Title>Gameloft</Card.Title>
+                            <Card.Subtitle className="mb-2 text-muted">Game Programmer</Card.Subtitle>
                             <Card.Text>
-                                
+                                I worked as a game programmer in Gameloft Indonesia. There i learned
+                                game making and game development process
                             </Card.Text>
                         </Card.Body>
                     </Card>
-                </div> */}
+                </div>
                 <h2>Organization</h2>
                 <div className="experience-flex">
                     <Card style={{ width: '18rem' }} bg="light" border="secondary" className="experience-card">

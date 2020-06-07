@@ -14,9 +14,10 @@ class Title extends Component {
                 <div className="title">    
                     <h1 className="title-header">It's-a Me! Ferdy Santoso!</h1>
                     <br/>
-                    <a href="#Experience">
+                    {/* <a href="#Experience">
                         <h4 className="scroll-down">Scroll Down<span><br/><h4 className="scroll-down">v</h4></span></h4>
-                    </a>
+                    </a> */}
+                    <h4 className="scroll-down">Scroll Down For More</h4>
                 </div>
             </div>
         )
