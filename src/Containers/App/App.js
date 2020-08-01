@@ -1,11 +1,12 @@
 import React from 'react';
 import './App.css';
+import '../../Assets/Fonts/stylesheet.css'
 import Title from '../Title/Title'
 import Experience from '../Experience/Experience'
 import Projects from '../Projects/Projects'
 import About from '../About/About'
-import Navbar from 'react-bootstrap/Navbar'
-import Nav from 'react-bootstrap/Nav'
+// import Navbar from 'react-bootstrap/Navbar'
+// import Nav from 'react-bootstrap/Nav'
 
 function App() {
   return (

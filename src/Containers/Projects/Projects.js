@@ -8,7 +8,7 @@ class Projects extends Component {
             <div className="projects-container">
                 <h1 className="projects-title">Projects</h1>
                 <div className="projects-flex">
-                    <Card style={{ width: '18rem' }} bg="dark" border="secondary" className="projects-card">
+                    <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
                         <Card.Body>
                             <Card.Title>ITB NIM Finder</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">HTML | CSS | JS | REACT</Card.Subtitle>
@@ -25,7 +25,7 @@ class Projects extends Component {
                             </Card.Link>
                         </Card.Body>
                     </Card>
-                    <Card style={{ width: '18rem' }} bg="dark" border="secondary" className="projects-card">
+                    <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
                         <Card.Body>
                             <Card.Title>Congklak Minimax</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Python</Card.Subtitle>
@@ -36,7 +36,7 @@ class Projects extends Component {
                             </Card.Text>
                             </Card.Body>
                     </Card>
-                    <Card style={{ width: '18rem' }} bg="dark" border="secondary" className="projects-card">
+                    <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
                         <Card.Body>
                             <Card.Title>Engima Cinema Website</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">HTML | CSS | JS | PHP</Card.Subtitle>
@@ -46,7 +46,7 @@ class Projects extends Component {
                             </Card.Text>
                         </Card.Body>
                     </Card>
-                    <Card style={{ width: '18rem' }} bg="dark" border="secondary" className="projects-card">
+                    <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
                         <Card.Body>
                             <Card.Title>TCP UDP Socket Connection</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Python</Card.Subtitle>
@@ -62,7 +62,7 @@ class Projects extends Component {
                             </Card.Link>
                         </Card.Body>
                     </Card>
-                    <Card style={{ width: '18rem' }} bg="dark" border="secondary" className="projects-card">
+                    <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
                         <Card.Body>
                             <Card.Title>BFS and A* Maze Solver</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Python</Card.Subtitle>
@@ -78,7 +78,7 @@ class Projects extends Component {
                             </Card.Link>
                         </Card.Body>
                     </Card>
-                    <Card style={{ width: '18rem' }} bg="dark" border="secondary" className="projects-card">
+                    <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
                         <Card.Body>
                             <Card.Title>Object Oriented Engi's Farm</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">C++</Card.Subtitle>

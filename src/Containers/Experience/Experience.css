@@ -1,9 +1,9 @@
 .experience-container {
     min-height: 100vh;
     width: 100%;
-    background-color: #ffffff;
-    color: #000022;
-    padding: 0 0 50px 0;
+    background-color: #0f0f0f;
+    color: #33f32c;
+    padding: 0 0 50px 100px;
 }
 
 .experience-title {
@@ -18,12 +18,12 @@
 .experience-flex {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
-    align-content: space-between;
+    justify-content: flex-start;
+    align-content: flex-start;
     flex-wrap: wrap;
-    margin: 3% 3% 0 3%;
+    margin: 3% 3% 0 0;
 }
 
 .experience-card {
-    margin: 0 0 50px 0;
+    margin: 0 50px 50px 0;
 }

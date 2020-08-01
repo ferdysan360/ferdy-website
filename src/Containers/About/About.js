@@ -30,7 +30,6 @@ class About extends Component {
                             <a href="https://www.linkedin.com/in/ferdy-santoso-063a73149/" target="_blank" rel="noopener noreferrer">
                                 <img src={require("../../Assets/linkedin.png")} alt="linkedin" />
                                 <h5>Ferdy Santoso</h5>
-
                             </a>
                         </div>
                         <br />
