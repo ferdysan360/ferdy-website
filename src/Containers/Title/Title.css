@@ -3,7 +3,7 @@
     width: 100%;
     background-color: #0f0f0f;
     color: #33f32c;
-    padding: 0 0 0 100px;
+    padding: 0 0 0 7vw;
 }
 
 .particles {
@@ -18,7 +18,7 @@
 }
 
 .title-header {
-    font-size: 56pt;
+    font-size: 3em;
 }
 
 .scroll-down {

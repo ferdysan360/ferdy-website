@@ -29,28 +29,28 @@ class About extends Component {
                         <div className="contacts-item">
                             <a href="https://www.linkedin.com/in/ferdy-santoso-063a73149/" target="_blank" rel="noopener noreferrer">
                                 <img src={require("../../Assets/linkedin.png")} alt="linkedin" />
-                                <h5>Ferdy Santoso</h5>
+                                <h6>Ferdy Santoso</h6>
                             </a>
                         </div>
                         <br />
                         <div className="contacts-item">
                             <a href="https://github.com/ferdysan360" target="_blank" rel="noopener noreferrer">
                                 <img src={require("../../Assets/github.png")} alt="github"/>
-                                <h5>ferdysan360</h5>
+                                <h6>ferdysan360</h6>
                             </a>
                         </div>
                         <br/>
                         <div className="contacts-item">
                             <a href="https://gitlab.com/13517116" target="_blank" rel="noopener noreferrer">
                                 <img src={require("../../Assets/gitlab.png")} alt="gitlab"/>
-                                <h5>ferdysan</h5>
+                                <h6>ferdysan</h6>
                             </a>
                         </div>
                         <br/>
                         <div className="contacts-item">
                             <a href="mailto:ferdysantoso9999@gmail.com" target="_blank" rel="noopener noreferrer">
                                 <img src={require("../../Assets/gmail.png")} alt="gmail"/>
-                                <h5>ferdysantoso9999@gmail.com</h5>
+                                <h6>ferdysantoso9999@gmail.com</h6>
                             </a>
                         </div>
                     </div>

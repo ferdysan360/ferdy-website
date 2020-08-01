@@ -3,7 +3,7 @@
     width: 100%;
     background-color: #0f0f0f;
     color: #33f32c;
-    padding: 0 0 50px 100px;
+    padding: 0 0 50px 7vw;
 }
 
 .about-title {
@@ -30,7 +30,7 @@
 
 .about-item-contacts {
     margin: 0 0 3% 0;
-    padding: 30px;
+    padding: 3vh;
     background-color: #343A40;
     border: 1px solid #33f32c;
     border-radius: 4px;
