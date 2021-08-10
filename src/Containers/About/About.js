@@ -10,10 +10,10 @@ class About extends Component {
                 <div className="about-flex">
                     <div className="about-item-me">
                         <p className="me-paragraph">
-                            Hi! My name is Ferdy Santoso and I am an Informatics Student at Institut Teknologi Bandung,
-                            Indonesia. I am currently living in Bandung but I am originally from Semarang. I am passionate in
-                            the field of Computer Science and Software Engineering. I like programming and developing
-                            software.
+                            Hi! My name is Ferdy Santoso and I am a Frontend Web Developer. I studied 
+                            in the field of Computer Science/Informatics at Institut Teknologi Bandung,
+                            Indonesia. I am currently living in Semarang. I am passionate in software 
+                            enginnering and I like developing software.
                         </p>
                     </div>
                     <div className="about-item-contacts">
