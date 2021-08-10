@@ -10,6 +10,53 @@ class Projects extends Component {
                 <div className="projects-flex">
                     <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
                         <Card.Body>
+                            <Card.Title>LINE Today</Card.Title>
+                            <Card.Subtitle className="mb-2 text-muted">HTML | CSS | JS | REACT</Card.Subtitle>
+                            <Card.Text>
+                                A LINE Today Replica. Uses API from LINE Today.
+                            </Card.Text>
+                            <Card.Link
+                                href="https://github.com/ferdysan360/Line-Today"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >Git -&gt;
+                            </Card.Link>
+                        </Card.Body>
+                    </Card>
+                    <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
+                        <Card.Body>
+                            <Card.Title>Media Steganography</Card.Title>
+                            <Card.Subtitle className="mb-2 text-muted">HTML | CSS | JS | REACT</Card.Subtitle>
+                            <Card.Text>
+                                A website used for applying steganography on Image,
+                                Audio, and Video files.
+                            </Card.Text>
+                            <Card.Link
+                                href="https://github.com/novendraw/media-steganography"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >Git -&gt;
+                            </Card.Link>
+                        </Card.Body>
+                    </Card>
+                    <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
+                        <Card.Body>
+                            <Card.Title>Essence Project V2</Card.Title>
+                            <Card.Subtitle className="mb-2 text-muted">HTML | CSS | JS | METEOR | MongoDB</Card.Subtitle>
+                            <Card.Text>
+                                A Software Project Management Tools for planning, 
+                                using Essence standard.
+                            </Card.Text>
+                            <Card.Link
+                                href="https://github.com/ferdysan360/Essence-Project-V2"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >Git -&gt;
+                            </Card.Link>
+                        </Card.Body>
+                    </Card>
+                    <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
+                        <Card.Body>
                             <Card.Title>ITB NIM Finder</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">HTML | CSS | JS | REACT</Card.Subtitle>
                             <Card.Text>
@@ -21,20 +68,9 @@ class Projects extends Component {
                                 href="https://github.com/ferdysan360/Simple-NIM-Finder-Project"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                >Git ->
+                                >Git -&gt;
                             </Card.Link>
                         </Card.Body>
-                    </Card>
-                    <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
-                        <Card.Body>
-                            <Card.Title>Congklak Minimax</Card.Title>
-                            <Card.Subtitle className="mb-2 text-muted">Python</Card.Subtitle>
-                            <Card.Text>
-                                A Congklak Game Bot, made using
-                                Artificial Intelligence : Minimax
-                                Algorithm and Alpha-Beta Pruning.
-                            </Card.Text>
-                            </Card.Body>
                     </Card>
                     <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
                         <Card.Body>
@@ -48,33 +84,32 @@ class Projects extends Component {
                     </Card>
                     <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
                         <Card.Body>
-                            <Card.Title>TCP UDP Socket Connection</Card.Title>
-                            <Card.Subtitle className="mb-2 text-muted">Python</Card.Subtitle>
+                            <Card.Title>VOYAGIA</Card.Title>
+                            <Card.Subtitle className="mb-2 text-muted">Unity</Card.Subtitle>
                             <Card.Text>
-                                A UDP Connection simulating a TCP
-                                connection, used for transferring files.
+                                A 3D Puzzle and Platformer Game. It tells a story about A Robot 
+                                that lost its memories and is trying to get it back.
                             </Card.Text>
                             <Card.Link
-                                href="https://github.com/ferdysan360/TCP-UDP-Socket-Connection"
+                                href="https://github.com/xio84/StoryBook"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                            >Git ->
+                            >Git -&gt;
                             </Card.Link>
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
                         <Card.Body>
-                            <Card.Title>BFS and A* Maze Solver</Card.Title>
-                            <Card.Subtitle className="mb-2 text-muted">Python</Card.Subtitle>
+                            <Card.Title>Night of The Dead</Card.Title>
+                            <Card.Subtitle className="mb-2 text-muted">Unity</Card.Subtitle>
                             <Card.Text>
-                                A Maze Solver program using BFS and
-                                A* Algorithm.
+                                Night of The Dead is a 2D Wave Survival zombie game.
                             </Card.Text>
                             <Card.Link
-                                href="https://github.com/yoelsusanto/BFS-AStar-MazeExplorer"
+                                href="https://gitlab.informatika.org/ferdysan/if3210-2020-unity-13517116"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                            >Git ->
+                            >Git -&gt;
                             </Card.Link>
                         </Card.Body>
                     </Card>
@@ -91,7 +126,7 @@ class Projects extends Component {
                                 href="https://github.com/ferdysan360/ObjectOriented-Engis-Farm"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                            >Git ->
+                            >Git -&gt;
                             </Card.Link>
                         </Card.Body>
                     </Card>
