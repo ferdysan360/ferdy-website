@@ -80,6 +80,12 @@ class Projects extends Component {
                                 A Cinema Website called Engima,
                                 simulating a real cinema website.
                             </Card.Text>
+                            <Card.Link
+                                href="https://gitlab.informatika.org/if3110-2019-01-k02-16/tugas-besar-1-2019"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >Git -&gt;
+                            </Card.Link>
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">

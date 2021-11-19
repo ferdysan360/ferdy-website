@@ -11,6 +11,15 @@ class Experience extends Component {
                 <div className="experience-flex">
                     <Card style={{ width: '18rem' }} bg="dark" border="success" className="experience-card">
                         <Card.Body>
+                            <Card.Title>Shopee</Card.Title>
+                            <Card.Subtitle className="mb-2 text-muted">Game Engineer</Card.Subtitle>
+                            <Card.Text>
+                                • Develop and Maintain Shopee's Games
+                            </Card.Text>
+                        </Card.Body>
+                    </Card>
+                    <Card style={{ width: '18rem' }} bg="dark" border="success" className="experience-card">
+                        <Card.Body>
                             <Card.Title>SejutaCita Indonesia</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Frontend Web Developer</Card.Subtitle>
                             <Card.Text>
