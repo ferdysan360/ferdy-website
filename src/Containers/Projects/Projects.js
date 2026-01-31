@@ -7,6 +7,46 @@ class Projects extends Component {
         return (
             <div className="projects-container">
                 <h1 className="projects-title">Projects</h1>
+                <h2>Work</h2>
+                <div className="projects-flex">
+                    <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
+                        <Card.Body>
+                            <Card.Title>Shopee Mall Page</Card.Title>
+                            <Card.Subtitle className="mb-2 text-muted">React Native</Card.Subtitle>
+                            <Card.Text>
+                                An e-commerce page on Shopee App dedicated for official brands. The project consists of 10+ people, releasing features on scrum basis.
+                            </Card.Text>
+                        </Card.Body>
+                    </Card>
+                    <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
+                        <Card.Body>
+                            <Card.Title>Shopee Mart Page</Card.Title>
+                            <Card.Subtitle className="mb-2 text-muted">React Native</Card.Subtitle>
+                            <Card.Text>
+                                An e-commerce page on Shopee App dedicated for supermarkets, where users can buy groceries. The project consists of 10+ people, releasing features on scrum basis.
+                            </Card.Text>
+                        </Card.Body>
+                    </Card>
+                    <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
+                        <Card.Body>
+                            <Card.Title>Shopee Microsite</Card.Title>
+                            <Card.Subtitle className="mb-2 text-muted">React Native</Card.Subtitle>
+                            <Card.Text>
+                                An e-commerce page on Shopee App enabling admin to create custom drag and drop pages. The project consists of 10+ people, releasing features on scrum basis.
+                            </Card.Text>
+                        </Card.Body>
+                    </Card>
+                    <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
+                        <Card.Body>
+                            <Card.Title>Shopee Bubble</Card.Title>
+                            <Card.Subtitle className="mb-2 text-muted">React Native</Card.Subtitle>
+                            <Card.Text>
+                                A game page on Shopee App enabling users to earn coins and vouchers to use in Shopee e-commerce pages. The project consists of 10+ people, releasing features on monthly basis.
+                            </Card.Text>
+                        </Card.Body>
+                    </Card>
+                </div>
+                <h2>Personal Projects</h2>
                 <div className="projects-flex">
                     <Card style={{ width: '18rem' }} bg="dark" border="success" className="projects-card">
                         <Card.Body>
@@ -44,7 +84,7 @@ class Projects extends Component {
                             <Card.Title>Essence Project V2</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">HTML | CSS | JS | METEOR | MongoDB</Card.Subtitle>
                             <Card.Text>
-                                A Software Project Management Tools for planning, 
+                                A Software Project Management Tools for planning,
                                 using Essence standard.
                             </Card.Text>
                             <Card.Link
@@ -68,7 +108,7 @@ class Projects extends Component {
                                 href="https://github.com/ferdysan360/Simple-NIM-Finder-Project"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                >Git -&gt;
+                            >Git -&gt;
                             </Card.Link>
                         </Card.Body>
                     </Card>
@@ -93,7 +133,7 @@ class Projects extends Component {
                             <Card.Title>VOYAGIA</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Unity</Card.Subtitle>
                             <Card.Text>
-                                A 3D Puzzle and Platformer Game. It tells a story about A Robot 
+                                A 3D Puzzle and Platformer Game. It tells a story about A Robot
                                 that lost its memories and is trying to get it back.
                             </Card.Text>
                             <Card.Link

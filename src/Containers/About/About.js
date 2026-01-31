@@ -14,10 +14,10 @@ class About extends Component {
                 <div className="about-flex">
                     <div className="about-item-me">
                         <p className="me-paragraph">
-                            Hi! My name is Ferdy Santoso and I am a Software Engineer. I studied 
-                            in the field of Computer Science/Informatics at Institut Teknologi Bandung,
-                            Indonesia. I am currently living in Semarang. I am passionate in software 
-                            enginnering and I like developing software.
+                            My name is Ferdy Santoso. I am a software engineer that mainly worked as a Frontend Developer.
+                            I studied in the field of Computer Science/Informatics and got my degree from Institut Teknologi Bandung.
+                            I am currently living in Jakarta, Indonesia. I am passionate in web, app, and games development using various frontend
+                            frameworks.
                         </p>
                     </div>
                     <div className="about-item-contacts">
@@ -39,21 +39,21 @@ class About extends Component {
                         <br />
                         <div className="contacts-item">
                             <a href="https://github.com/ferdysan360" target="_blank" rel="noopener noreferrer">
-                                <img src={GithubLogo} alt="github"/>
+                                <img src={GithubLogo} alt="github" />
                                 <h6>ferdysan360</h6>
                             </a>
                         </div>
-                        <br/>
+                        <br />
                         <div className="contacts-item">
                             <a href="https://gitlab.com/13517116" target="_blank" rel="noopener noreferrer">
-                                <img src={GitlabLogo} alt="gitlab"/>
+                                <img src={GitlabLogo} alt="gitlab" />
                                 <h6>ferdysan</h6>
                             </a>
                         </div>
-                        <br/>
+                        <br />
                         <div className="contacts-item">
                             <a href="mailto:ferdysantoso9999@gmail.com" target="_blank" rel="noopener noreferrer">
-                                <img src={GmailLogo} alt="gmail"/>
+                                <img src={GmailLogo} alt="gmail" />
                                 <h6>ferdysantoso9999@gmail.com</h6>
                             </a>
                         </div>
