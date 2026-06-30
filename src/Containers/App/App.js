@@ -1,10 +1,10 @@
-import React from 'react';
-import './App.css';
-import '../../Assets/Fonts/stylesheet.css'
-import Title from '../Title/Title'
-import Experience from '../Experience/Experience'
-import Projects from '../Projects/Projects'
-import About from '../About/About'
+import React from "react";
+import "./App.css";
+import "../../Assets/Fonts/stylesheet.css";
+import Title from "../Title/Title";
+import Experience from "../Experience/Experience";
+import Projects from "../Projects/Projects";
+import About from "../About/About";
 // import Navbar from 'react-bootstrap/Navbar'
 // import Nav from 'react-bootstrap/Nav'
 
@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Title/>
+        <Title />
       </header>
       {/* <Navbar variant="dark" expand="md" sticky="top" className="navbar-container">
         <Navbar.Brand href="#">Ferdysan</Navbar.Brand>
@@ -26,13 +26,13 @@ function App() {
         </Navbar.Collapse>
       </Navbar> */}
       <div id="Experience">
-        <Experience/>
+        <Experience />
       </div>
       <div id="Projects">
-        <Projects/>
+        <Projects />
       </div>
       <div id="About">
-        <About/>
+        <About />
       </div>
     </div>
   );
